@@ -24,7 +24,7 @@
 
   /* Colors */
 
-  --color-default: #74748c;
+  --color-default: #7b929e;
   --color-quiet: #a6a6bf;
   --color-text: #000;
   --color-dark: #eee;
@@ -32,11 +32,11 @@
   --color-light: #fdfdfd;
   --color-link: #4267ff;
   --color-outline: #4267ff;
-  --color-brand: #2c3e50;
-  --color-info: #4267ff;
+  --color-brand: #2C3E50;
+  --color-info: #2196F3;
   --color-warning: #ffa500;
-  --color-success: #088a05;
-  --color-error: #ee0202;
+  --color-success: #4CAF50;
+  --color-error: #F44336;
   --color-highlight: #ffef14;
   --color-disabled: var(--color-default);
   --color-disabled-background: #f2f2f4;
@@ -87,6 +87,6 @@
   --text-font-size-small: 0.8em;
   --text-font-size-xsmall: 0.67em;
   --text-font-weight: normal;
-  --text-font-weight-heavy: bold;
+  --text-font-weight-heavy: normal;
   --text-line-height: 1.55;
 }

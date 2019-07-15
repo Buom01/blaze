@@ -141,6 +141,7 @@
   height: var(--border-width);
   overflow: hidden;
   background-color: var(--border-color);
+  opacity: var(--disabled-opacity);
 }
 
 .c-card--accordion {
