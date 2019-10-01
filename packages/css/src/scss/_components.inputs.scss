@@ -92,6 +92,7 @@ select.c-field:not([multiple]) {
   background-image: url('data:image/png;base64,R0lGODlhDwAUAIABAAAAAP///yH5BAEAAAEALAAAAAAPABQAAAIXjI+py+0Po5wH2HsXzmw//lHiSJZmUAAAOw==');
   background-repeat: no-repeat;
   background-position: 99% 50%;
+
   &:invalid {  // Allow kind of placeholder (need required hidden selected on the 'placeholder')
     color: grey;
   }
